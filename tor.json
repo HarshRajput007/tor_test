@@ -3,6 +3,36 @@
     "tor": [
 
     {
+    "name":"Tor Browser for Android (Alpha) - Official Tor Browser",
+    "description":"https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha"
+    },
+
+    {
+    "name":"Orbot: Proxy with Tor - Proxy for Tor",
+    "description":"https://play.google.com/store/apps/details?id=org.torproject.android"
+    },
+
+    {
+    "name":"Orfox - Official Browser for Tor",
+    "description":"https://play.google.com/store/apps/details?id=info.guardianproject.orfox"
+    },
+
+    {
+    "name":"RiseUp - Encrypted, decentralized E-mails, Chat, VPNs, and many other tools",
+    "description":"http://nzh3fv6jc6jskki3.onion/"
+    },
+
+    {
+    "name":"CryptoDog - Chat-server, which works both as a “private” chat room",
+    "description":"http://doggyfipznipbaia.onion/"
+    },
+
+    {
+    "name":"CrimeNetwork - Most active Deep Web Links when it comes to a Darknet Forum",
+    "description":"http://cnwv3ycmy4uc7vou.onion/"
+    },
+
+    {
     "name":"Dream Market- Marketplace for Drugs, Digital Goods and Other Services",
     "description":"http://6khhxwj7viwe5xjm.onion/"
     },
